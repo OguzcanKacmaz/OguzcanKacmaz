@@ -10,7 +10,7 @@ This is the place where I opensource stuff and break things :rofl:
 <a href="https://www.linkedin.com/in/mustafa-oğuzcan-kaçmaz-286199105/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://instagram.com/oguzcankacmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OguzcanKacmaz&show_icons=true&theme=merco)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OguzcanKacmaz&show_icons=true&theme=merko)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OguzcanKacmaz)](https://github.com/anuraghazra/github-readme-stats)
  
