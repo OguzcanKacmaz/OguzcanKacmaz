@@ -11,6 +11,13 @@ This is the place where I opensource stuff and break things :rofl:
 <a href="https://instagram.com/oguzcankacmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OguzcanKacmaz&show_icons=true&theme=radical)
+ 
+ <a href="https://github.com/OguzcanKacmaz/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/OguzcanKacmaz/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 
 
