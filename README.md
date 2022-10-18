@@ -1,5 +1,4 @@
 <h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Oğuzcan</h1>
-<p align="left"> <a href="https://twitter.com/oguzcankacmaz" target="blank"><img src="https://img.shields.io/twitter/follow/oguzcankacmaz?logo=twitter&style=for-the-badge" alt="oguzcankacmaz" /></a> </p>
 
 This is the place where I opensource stuff and break things :rofl:
 
