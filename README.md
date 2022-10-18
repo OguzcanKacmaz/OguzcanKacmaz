@@ -12,12 +12,7 @@ This is the place where I opensource stuff and break things :rofl:
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OguzcanKacmaz&show_icons=true&theme=radical)
  
- <a href="https://github.com/OguzcanKacmaz/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/OguzcanKacmaz/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OguzcanKacmaz)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
