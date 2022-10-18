@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+This is the place where I opensource stuff and break things :rofl:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=[link](https://github.com/OguzcanKacmaz))](https://github.com/OguzcanKacmaz) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=https://instagram/oguzcankacmaz)](https//instagram/oguzcankacmaz) 
-
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning C#,.Net
 
 
 
