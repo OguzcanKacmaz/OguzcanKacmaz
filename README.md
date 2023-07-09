@@ -3,7 +3,6 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 I’m currently learning **C#,.NET**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
